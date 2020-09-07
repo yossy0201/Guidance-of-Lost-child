@@ -8,19 +8,27 @@
   text-align: center;
 }
 
+.pic {
+  margin-top: 10px;
+}
+
 .piyoko {
   text-align: center;
   color: black;
+  margin-top: 10px;
 }
+
 
 .rin {
   text-align: center;
   color: black;
+  margin-top: 10px;
 }
 
 .mi {
   text-align: center;
   color: black;
+  margin-top: 10px;
 }
 
 form {
