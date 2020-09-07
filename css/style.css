@@ -5,9 +5,20 @@
 
 .names {
   color: blue;
+  text-align: center;
 }
 
-p {
+.piyoko {
+  text-align: center;
+  color: black;
+}
+
+.rin {
+  text-align: center;
+  color: black;
+}
+
+.mi {
   text-align: center;
   color: black;
 }
