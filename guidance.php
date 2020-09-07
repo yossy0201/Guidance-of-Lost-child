@@ -24,7 +24,6 @@
   echo "お名前を入力してください"
   ?>
   </P>
-  <!-- <p class="names">お名前を入力してください</p> -->
 
   <form>
   <input type="text" name="name" class="text-area">
