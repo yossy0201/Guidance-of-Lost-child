@@ -10,10 +10,13 @@
 
 <body>
   <header>
-    <h1 class="Guidance">迷子のご案内</h1>
+    <h1 class="Guidance">
+      <?php
+      echo "迷子のご案内"
+      ?>
+    </h1>
   </header>
 
-  
   <div class="container">
     <div id="img_unit">
     </div>
